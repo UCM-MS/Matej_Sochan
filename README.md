@@ -1,3 +1,3 @@
 # Matej Sochan
 
-### multimedialne systemy 29.10.2026
+## multimedialne systemy 29.10.2026
